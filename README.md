@@ -4,12 +4,23 @@
 4€ par loup et par jour (80€ / jour)  
 déjà utilisé : 120€ (Dimanche et Lundi)
 
+| Samedi                                    | Dimanche                                  | Lundi                                    | Mardi                                    | Mercredi                                 | Jeudi                                    | Vendredi                                 | Samedi                                   | Dimanche                                 |
+| :-----------------------------------------:| :-----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:|
+| <code style="color : green">40/40€</code> | <code style="color : green">58/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> |
+
+Budget Total: 640€  
+Budget Utilisé : 98€
+
+Hors budget: Corde (9€) + Détendeur (15€) => <code style="color : red">24€</code>
+
 - Samedi
   - Midi : Sandwichs
   - Goûter : Fourni
   - Soir : Salade de tomates composées :
     - Tomates (côtelées), Maïs, dés de jambon, Mozarella
     - Yaourts
+
+---
 
 - Dimanche
   - Matin : Lait / Chocolat / Pain / Confiture
