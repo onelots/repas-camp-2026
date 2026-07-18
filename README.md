@@ -33,17 +33,34 @@ déjà utilisé : 120€ (Dimanche et Lundi)
 
 - Mardi
   - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi :
+    - Sandwichs : Jambon / mayo / Pain / Tomates
+    - Pommes
+  - Goûter : brioche
+  - Soir : Saucisses / Lentilles
+    - Vraies saucisses
+    - Yaourts
+
+- Mercredi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi :
+    - Sandwichs : Jambon / mayo / Pain / Tomates
+    - Pommes
+  - Goûter : Cookies
+  - Soir : Burgers
+    - Pains à burger, steaks, sauces, fromage, tomates, salade
+    - glaces
+
+- Jeudi :
+  - Matin : Lait / Chocolat / Pain / Confiture
   - Midi : Salade de riz :
     - Base riz (2kg), poivrons, tomates, feta, oignons rouges, dés de jambon
     - yaourts
-  - Goûter : cookies
+  - Goûter : brioche
   - Soir :
     - petits pois / cordons bleus
     - pommes
 
-- Mercredi
-
-- Jeudi
 - Vendredi :
   - Matin : Lait / Chocolat / Pain / Confiture
   - Midi :
@@ -53,5 +70,17 @@ déjà utilisé : 120€ (Dimanche et Lundi)
   - Soir : Pâtes au pesto + fromage rapé
 
 - Samedi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi : Riz au poulet
+    - Poulet / Crème / Lardons / Champignons / Moutarde / Riz
+    - Pommes
+  - Goûter : Cookies
+  - Soir : Salade de tomates composées :
+    - Tomates (côtelées), Maïs, dés de jambon, Mozarella
+    - Yaourts
 
-- Dimanche
+- Dimanche :
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi :
+    - Sandwichs : Jambon / mayo / Pain / Tomates
+    - Pommes
