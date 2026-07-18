@@ -22,6 +22,15 @@ déjà utilisé : 120€ (Dimanche et Lundi)
     - yaourts
 
 - Lundi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi : Salade de pâtes :
+    - Gnocchis (2kg), Melon, 3 fetas, 3 concombres, 2kg de tomates au moins
+    - yaourts
+  - Goûter : biscuits (déjà achetés)
+  - Soir :
+    - Cassoulet (conserves)
+    - Pêches
+
 - Mardi
 - Mercredi
 - Jeudi
