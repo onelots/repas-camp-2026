@@ -32,8 +32,26 @@ déjà utilisé : 120€ (Dimanche et Lundi)
     - Pêches
 
 - Mardi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi : Salade de riz :
+    - Base riz (2kg), poivrons, tomates, feta, oignons rouges, dés de jambon
+    - yaourts
+  - Goûter : cookies
+  - Soir :
+    - petits pois / cordons bleus
+    - pommes
+
 - Mercredi
+
 - Jeudi
-- Vendredi
+- Vendredi :
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi :
+    - Sandwichs : (Pain) / Thon / Mayo / Tomates / Claquos
+    - Pommes
+  - Goûter : Cookies
+  - Soir : Pâtes au pesto + fromage rapé
+
 - Samedi
+
 - Dimanche
