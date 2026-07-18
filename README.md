@@ -13,6 +13,8 @@ Budget Utilisé : 98€
 
 Hors budget: Corde (9€) + Détendeur (15€) => <code style="color : red">24€</code>
 
+---
+
 - Samedi
   - Midi : Sandwichs
   - Goûter : Fourni
