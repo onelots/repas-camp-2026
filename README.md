@@ -1,25 +1,5 @@
 # Repas pour le camp 2026
 
-- Lundi
-  - Matin : Lait / Chocolat / Pain / Confiture
-  - Midi : Salade de pâtes :
-    - Pâtes (3kg), Melon, 3 fetas, 3 concombres, 2kg de tomates au moins
-    - yaourts
-  - Goûter : biscuits (déjà achetés)
-  - Soir :
-    - Cassoulet (conserves)
-    - Pêches
-
-- Mardi
-  - Matin : Lait / Chocolat / Pain / Confiture
-  - Midi :
-    - Sandwichs : Jambon / mayo / Pain / Tomates
-    - Pommes
-  - Goûter : brioche
-  - Soir : Saucisses / Lentilles
-    - Vraies saucisses
-    - Yaourts
-
 - Mercredi
   - Matin : Lait / Chocolat / Pain / Confiture
   - Midi :
@@ -30,6 +10,8 @@
     - Pains à burger, steaks, sauces, fromage, tomates, salade
     - glaces
 
+---
+
 - Jeudi :
   - Matin : Lait / Chocolat / Pain / Confiture
   - Midi : Salade de riz :
@@ -39,6 +21,8 @@
   - Soir :
     - petits pois / cordons bleus
     - pommes
+
+---
 
 - Vendredi :
   - Matin : Lait / Chocolat / Pain / Confiture
@@ -70,12 +54,14 @@
 4€ par loup et par jour (80€ / jour)  
 déjà utilisé : 186€
 
-| Samedi                                    | Dimanche                                  | Lundi                                    | Mardi                                    | Mercredi                                 | Jeudi                                    | Vendredi                                 | Samedi                                   | Dimanche                                 |
-| :-----------------------------------------:| :-----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:|
-| <code style="color : green">40/40€</code> | <code style="color : green">58/80€</code> | <code style="color : red">88/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> |
+| Samedi                                    | Dimanche                                  | Lundi                                   | Mardi                                     | Mercredi                                 | Jeudi                                    | Vendredi                                 | Samedi                                   | Dimanche                                 |
+| :-----------------------------------------:| :-----------------------------------------:| :---------------------------------------:| :-----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:| :----------------------------------------:|
+| <code style="color : green">40/40€</code> | <code style="color : green">58/80€</code> | <code style="color : red">88/80€</code> | <code style="color : white">99/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> | <code style="color : white">0/80€</code> |
 
 Budget Total: 640€  
-Budget Utilisé : 186/200€
+Budget Utilisé : 285/280€
+
+**Budget PAR enfant utilisé : 4,07€**
 
 Hors budget: Corde (9€) + Détendeur (15€) => <code style="color : red">24€</code>
 
@@ -101,3 +87,25 @@ Hors budget: Corde (9€) + Détendeur (15€) => <code style="color : red">24�
     - yaourts
 
 ---
+
+- Lundi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi : Salade de pâtes :
+    - Pâtes (3kg), Melon, 3 fetas, 3 concombres, 2kg de tomates au moins
+    - yaourts
+  - Goûter : biscuits (déjà achetés)
+  - Soir :
+    - Cassoulet (conserves)
+    - Pêches
+
+---
+
+- Mardi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi :
+    - Sandwichs : Jambon / mayo / Pain / Tomates
+    - Pommes
+  - Goûter : brioche
+  - Soir : Saucisses / Lentilles
+    - Vraies saucisses
+    - Yaourts
