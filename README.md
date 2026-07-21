@@ -1,17 +1,5 @@
 # Repas pour le camp 2026
 
-- Mercredi
-  - Matin : Lait / Chocolat / Pain / Confiture
-  - Midi :
-    - Sandwichs : Jambon / mayo / Pain / Tomates
-    - Pommes
-  - Goûter : Cookies
-  - Soir : Burgers
-    - Pains à burger, steaks, sauces, fromage, tomates, salade
-    - glaces
-
----
-
 - Jeudi :
   - Matin : Lait / Chocolat / Pain / Confiture
   - Midi : Salade de riz :
@@ -51,18 +39,16 @@
 ---
 
 ## Budget :
-4€ par loup et par jour (80€ / jour)  
+5€ par loup et par jour (100€ / jour)  
 
-| Samedi                                                       | Dimanche                                                     | Lundi                                                | Mardi                                                | Mercredi                                                   | Jeudi                                                      | Vendredi                                                   | Samedi                                                     | Dimanche                                                   |
-| :------------------------------------------------------------:| :------------------------------------------------------------:| :----------------------------------------------------:| :----------------------------------------------------:| :----------------------------------------------------------:| :----------------------------------------------------------:| :----------------------------------------------------------:| :----------------------------------------------------------:| :----------------------------------------------------------:|
-| ![40/40€](https://img.shields.io/badge/40%2F40€-brightgreen) | ![58/80€](https://img.shields.io/badge/58%2F80€-brightgreen) | ![88/80€](https://img.shields.io/badge/88%2F80€-red) | ![99/80€](https://img.shields.io/badge/99%2F80€-red) | ![0/80€](https://img.shields.io/badge/0%2F80€-brightgreen) | ![0/80€](https://img.shields.io/badge/0%2F80€-brightgreen) | ![0/80€](https://img.shields.io/badge/0%2F80€-brightgreen) | ![0/80€](https://img.shields.io/badge/0%2F80€-brightgreen) | ![0/80€](https://img.shields.io/badge/0%2F80€-brightgreen) |
+| Samedi                                                       | Dimanche                                                       | Lundi                                                          | Mardi                                                          | Mercredi                                                 | Jeudi                                                        | Vendredi                                                     | Samedi                                                       | Dimanche                                                     |
+| :------------------------------------------------------------:| :--------------------------------------------------------------:| :--------------------------------------------------------------:| :--------------------------------------------------------------:| :--------------------------------------------------------:| :------------------------------------------------------------:| :------------------------------------------------------------:| :------------------------------------------------------------:| :------------------------------------------------------------:|
+| ![40/50€](https://img.shields.io/badge/40%2F40€-brightgreen) | ![58/100€](https://img.shields.io/badge/58%2F100€-brightgreen) | ![88/100€](https://img.shields.io/badge/88%2F100€-brightgreen) | ![99/100€](https://img.shields.io/badge/99%2F100€-brightgreen) | ![116/100€](https://img.shields.io/badge/116%2F100€-red) | ![0/100€](https://img.shields.io/badge/0%2F100€-brightgreen) | ![0/100€](https://img.shields.io/badge/0%2F100€-brightgreen) | ![0/100€](https://img.shields.io/badge/0%2F100€-brightgreen) | ![0/100€](https://img.shields.io/badge/0%2F100€-brightgreen) |
 
-Budget Total: 640€  
-Budget Utilisé : 285/280€
+Budget Total: 850€  
+Budget Utilisé : 401/450€
 
-**Budget PAR enfant utilisé : 4,07€**
-
-Hors budget: Corde (9€) + Détendeur (15€) => <code style="color : red">24€</code>
+**Budget PAR enfant utilisé : 4,45€**
 
 ---
 
@@ -108,3 +94,15 @@ Hors budget: Corde (9€) + Détendeur (15€) => <code style="color : red">24�
   - Soir : Saucisses / Lentilles
     - Vraies saucisses
     - Yaourts
+
+- Mercredi
+  - Matin : Lait / Chocolat / Pain / Confiture
+  - Midi :
+    - Sandwichs : Jambon / mayo / Pain / Tomates
+    - Pommes
+  - Goûter : Cookies
+  - Soir : Burgers
+    - Pains à burger, steaks, sauces, fromage, tomates, salade
+    - glaces
+
+---
